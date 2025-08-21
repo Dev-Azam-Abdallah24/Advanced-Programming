@@ -11,4 +11,6 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+    base: '/Advanced-Programming/', // 👈 مهم لـ GitHub Pages
+
 })
